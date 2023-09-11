@@ -1,3 +1,5 @@
 python-dotenv
 srt
 pysrt
+openai-whisper
+pydub
